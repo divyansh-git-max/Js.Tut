@@ -43,3 +43,23 @@ let StringNumber = String(someNumber)
 console.log(StringNumber)
 console.log(typeof StringNumber) // Number is converted into String
 
+let value = 3
+let negativeValue = -value
+console.log(negativeValue); //-> value is converted into negative value
+
+
+// adding strings
+
+let str1 = 'hello'
+let str2 = 'divyansh'
+
+let str3 = str1 + str2
+
+console.log(str3);
+
+console.log('1'+2+2) //122 the value that comes first then whole output is in that type like in this example string
+console.log(1+2+'2') //32 
+
+console.log(+true) //-> 1  increment of true
+console.log(+'') //-> 0 increment of empty string 
+
