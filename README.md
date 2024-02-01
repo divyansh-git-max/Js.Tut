@@ -1,2 +1,2 @@
-# Js.Tut
-code repo for javascript
+# Js.Tutorial
+code repo for javascript tutorial
