@@ -10,3 +10,9 @@ Arrays, Objects, Functions
 
 
 */
+
+/* types of Memory 
+
+    Stack(Primitive) and Heap (non-primitive)
+    
+*/
