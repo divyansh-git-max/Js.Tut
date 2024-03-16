@@ -17,3 +17,25 @@ myArr.unshift(9)
 
 console.log(myArr);
 
+const newArr = myArr.join() // array -> string 
+
+console.log(newArr);
+
+//slice-> 
+console.log('A ', myArr)
+
+const myn1 = myArr.slice(1,3) // array that contains element of index 1 , 2
+
+console.log(myn1)
+
+console.log('B ',myArr);
+
+
+// splice  ->   it removes the part from the array which is spliced
+
+
+const myn2 = myArr.splice(1,3) 
+ 
+console.log(myn2)
+console.log(myArr)
+
