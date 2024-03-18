@@ -20,3 +20,4 @@ const real_array = another_array.flat(Infinity)
 console.log(real_array);
 console.log(Array.isArray('Divyansh')) // -> false means it is not array vice - versa 
 
+console.log(Array.from('Divyansh')); //-> will convert this into Array 
